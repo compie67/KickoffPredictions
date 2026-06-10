@@ -1,0 +1,43 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs/debug
+*.log
+debug.log
+error.log
+
+# Local config / secrets
+.env
+config.php
+secrets.php
+local.php
+*.key
+*.pem
+
+# Backups/temp
+*.bak
+*.old
+*.tmp
+*.swp
+*.orig
+~$*
+
+# Build/download archives
+*.zip
+*.tar
+*.tar.gz
+
+# OSSN data/cache
+ossn_data/
+cache/
+tmp/
+
+# Dependencies/build tooling
+vendor/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
