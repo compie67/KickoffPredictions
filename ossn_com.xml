@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+    <name>KickoffPredictions</name>
+    <id>KickoffPredictions</id>
+    <author>Eric Redegeld / ChatGPT / Claude</author>
+    <description>Generic prediction pool for OSSN using ossn_data JSON storage. Supports score predictions and winner-pick events. No database changes.</description>
+    <license>GPL-2.0</license>
+    <version>2.7</version>
+    <requires>8.0</requires>
+</component>

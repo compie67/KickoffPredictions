@@ -1,0 +1,290 @@
+[
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "flag": "🇩🇿",
+    "group": ""
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "group": ""
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "group": ""
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "group": ""
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "group": ""
+  },
+  {
+    "id": "bosnia_herzegovina",
+    "name": "Bosnia-Herzegovina",
+    "flag": "🇧🇦",
+    "group": ""
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "group": ""
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "group": ""
+  },
+  {
+    "id": "cape_verde",
+    "name": "Cape Verde",
+    "flag": "🇨🇻",
+    "group": ""
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "group": ""
+  },
+  {
+    "id": "croatia",
+    "name": "Croatia",
+    "flag": "🇭🇷",
+    "group": ""
+  },
+  {
+    "id": "curacao",
+    "name": "Curaçao",
+    "flag": "🇨🇼",
+    "group": ""
+  },
+  {
+    "id": "czech_republic",
+    "name": "Czech Republic",
+    "flag": "🇨🇿",
+    "group": ""
+  },
+  {
+    "id": "dr_congo",
+    "name": "DR Congo",
+    "flag": "🇨🇩",
+    "group": ""
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "group": ""
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "group": ""
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "flag": "🏴",
+    "group": ""
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "flag": "🇫🇷",
+    "group": ""
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "group": ""
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "group": ""
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti",
+    "flag": "🇭🇹",
+    "group": ""
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "flag": "🇮🇷",
+    "group": ""
+  },
+  {
+    "id": "iraq",
+    "name": "Iraq",
+    "flag": "🇮🇶",
+    "group": ""
+  },
+  {
+    "id": "ivory_coast",
+    "name": "Ivory Coast",
+    "flag": "🇨🇮",
+    "group": ""
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "group": ""
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "flag": "🇯🇴",
+    "group": ""
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "group": ""
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "group": ""
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "group": ""
+  },
+  {
+    "id": "new_zealand",
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "group": ""
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "group": ""
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "flag": "🇵🇦",
+    "group": ""
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "group": ""
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "group": ""
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "flag": "🇶🇦",
+    "group": ""
+  },
+  {
+    "id": "saudi_arabia",
+    "name": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "group": ""
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "flag": "🏴",
+    "group": ""
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "group": ""
+  },
+  {
+    "id": "south_africa",
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "group": ""
+  },
+  {
+    "id": "south_korea",
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "group": ""
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "group": ""
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "group": ""
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "group": ""
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "flag": "🇹🇳",
+    "group": ""
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "group": ""
+  },
+  {
+    "id": "usa",
+    "name": "USA",
+    "flag": "🇺🇸",
+    "group": ""
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "group": ""
+  },
+  {
+    "id": "uzbekistan",
+    "name": "Uzbekistan",
+    "flag": "🇺🇿",
+    "group": ""
+  }
+]

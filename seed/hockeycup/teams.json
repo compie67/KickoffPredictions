@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ned",
+    "name": "Netherlands",
+    "group": "Pool A",
+    "ranking": null
+  },
+  {
+    "id": "bel",
+    "name": "Belgium",
+    "group": "Pool A",
+    "ranking": null
+  },
+  {
+    "id": "ger",
+    "name": "Germany",
+    "group": "Pool A",
+    "ranking": null
+  },
+  {
+    "id": "esp",
+    "name": "Spain",
+    "group": "Pool A",
+    "ranking": null
+  },
+  {
+    "id": "aus",
+    "name": "Australia",
+    "group": "Pool B",
+    "ranking": null
+  },
+  {
+    "id": "ind",
+    "name": "India",
+    "group": "Pool B",
+    "ranking": null
+  },
+  {
+    "id": "gb",
+    "name": "Great Britain",
+    "group": "Pool B",
+    "ranking": null
+  },
+  {
+    "id": "arg",
+    "name": "Argentina",
+    "group": "Pool B",
+    "ranking": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "hockeycup",
+  "title": "Hockey Community Pool",
+  "year": 2026,
+  "type": "hockey",
+  "prediction_type": "score",
+  "active": true,
+  "description": "Community pool template for hockey. Useful for school, club or international hockey pools."
+}

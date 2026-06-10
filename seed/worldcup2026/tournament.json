@@ -1,0 +1,11 @@
+{
+  "id": "worldcup2026",
+  "title": "Football World Cup 2026 Community Pool",
+  "year": 2026,
+  "type": "world_cup",
+  "active": true,
+  "note": "Seed uses editable placeholder team slots. Replace teams.json/matches.json with official data when ready.",
+  "prediction_type": "score",
+  "description": "Community pool for the Football World Cup 2026. Group-stage teams and matches can be imported from JSON or TheSportsDB CSV.",
+  "data_note": "The included group-stage match seed was generated from a TheSportsDB CSV export."
+}

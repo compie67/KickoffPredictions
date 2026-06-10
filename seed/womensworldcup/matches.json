@@ -1,0 +1,134 @@
+[
+  {
+    "id": "match_001",
+    "stage": "group",
+    "group": "Group A",
+    "home": "t1",
+    "away": "t2",
+    "kickoff": "2027-07-01T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_002",
+    "stage": "group",
+    "group": "Group A",
+    "home": "t3",
+    "away": "t4",
+    "kickoff": "2027-07-02T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_003",
+    "stage": "group",
+    "group": "Group B",
+    "home": "t5",
+    "away": "t6",
+    "kickoff": "2027-07-03T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_004",
+    "stage": "group",
+    "group": "Group B",
+    "home": "t7",
+    "away": "t8",
+    "kickoff": "2027-07-04T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_005",
+    "stage": "group",
+    "group": "Group A",
+    "home": "t1",
+    "away": "t3",
+    "kickoff": "2027-07-05T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_006",
+    "stage": "group",
+    "group": "Group A",
+    "home": "t2",
+    "away": "t4",
+    "kickoff": "2027-07-06T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_007",
+    "stage": "group",
+    "group": "Group B",
+    "home": "t5",
+    "away": "t7",
+    "kickoff": "2027-07-07T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_008",
+    "stage": "group",
+    "group": "Group B",
+    "home": "t6",
+    "away": "t8",
+    "kickoff": "2027-07-08T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_009",
+    "stage": "group",
+    "group": "Group A",
+    "home": "t1",
+    "away": "t4",
+    "kickoff": "2027-07-09T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_010",
+    "stage": "group",
+    "group": "Group A",
+    "home": "t2",
+    "away": "t3",
+    "kickoff": "2027-07-10T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_011",
+    "stage": "group",
+    "group": "Group B",
+    "home": "t5",
+    "away": "t8",
+    "kickoff": "2027-07-11T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_012",
+    "stage": "group",
+    "group": "Group B",
+    "home": "t6",
+    "away": "t7",
+    "kickoff": "2027-07-12T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_101",
+    "stage": "semi",
+    "home": "winner_a",
+    "away": "runner_b",
+    "kickoff": "2027-08-01T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_102",
+    "stage": "semi",
+    "home": "winner_b",
+    "away": "runner_a",
+    "kickoff": "2027-08-02T20:00:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_103",
+    "stage": "final",
+    "home": "winner_sf1",
+    "away": "winner_sf2",
+    "kickoff": "2027-08-06T20:00:00+02:00",
+    "status": "scheduled"
+  }
+]

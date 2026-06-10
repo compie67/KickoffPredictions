@@ -1,0 +1,110 @@
+[
+  {
+    "id": "match_001",
+    "stage": "group",
+    "group": "Pool A",
+    "home": "ned",
+    "away": "bel",
+    "kickoff": "2026-06-10T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_002",
+    "stage": "group",
+    "group": "Pool A",
+    "home": "ger",
+    "away": "esp",
+    "kickoff": "2026-06-11T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_003",
+    "stage": "group",
+    "group": "Pool B",
+    "home": "aus",
+    "away": "ind",
+    "kickoff": "2026-06-12T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_004",
+    "stage": "group",
+    "group": "Pool B",
+    "home": "gb",
+    "away": "arg",
+    "kickoff": "2026-06-13T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_005",
+    "stage": "group",
+    "group": "Pool A",
+    "home": "ned",
+    "away": "ger",
+    "kickoff": "2026-06-14T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_006",
+    "stage": "group",
+    "group": "Pool A",
+    "home": "bel",
+    "away": "esp",
+    "kickoff": "2026-06-15T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_007",
+    "stage": "group",
+    "group": "Pool B",
+    "home": "aus",
+    "away": "gb",
+    "kickoff": "2026-06-16T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_008",
+    "stage": "group",
+    "group": "Pool B",
+    "home": "ind",
+    "away": "arg",
+    "kickoff": "2026-06-17T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_009",
+    "stage": "group",
+    "group": "Pool A",
+    "home": "ned",
+    "away": "esp",
+    "kickoff": "2026-06-18T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_010",
+    "stage": "group",
+    "group": "Pool A",
+    "home": "bel",
+    "away": "ger",
+    "kickoff": "2026-06-19T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_011",
+    "stage": "group",
+    "group": "Pool B",
+    "home": "aus",
+    "away": "arg",
+    "kickoff": "2026-06-20T19:30:00+02:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "match_012",
+    "stage": "group",
+    "group": "Pool B",
+    "home": "ind",
+    "away": "gb",
+    "kickoff": "2026-06-21T19:30:00+02:00",
+    "status": "scheduled"
+  }
+]

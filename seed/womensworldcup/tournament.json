@@ -1,0 +1,9 @@
+{
+  "id": "womensworldcup",
+  "title": "Women’s World Cup Community Pool",
+  "year": 2027,
+  "type": "football",
+  "prediction_type": "score",
+  "active": true,
+  "description": "Community pool template for a women’s football tournament. Replace teams and fixtures with your event data."
+}

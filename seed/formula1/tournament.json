@@ -1,0 +1,9 @@
+{
+  "id": "formula1",
+  "title": "Formula 1 Community Pool",
+  "year": 2026,
+  "type": "motorsport",
+  "prediction_type": "pick_winner",
+  "active": true,
+  "description": "Community pool template for Formula 1 2026. Includes races and sprint races from an editable starter calendar; drivers can be changed or added in admin."
+}

@@ -1,0 +1,9 @@
+{
+  "points_exact": 5,
+  "points_result": 3,
+  "points_goal_diff": 1,
+  "points_bonus_winner": 10,
+  "lock_minutes_before": 0,
+  "autosave_delay_ms": 500,
+  "points_pick_winner": 5
+}

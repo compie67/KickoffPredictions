@@ -1,0 +1,80 @@
+[
+  {
+    "id": "t1",
+    "name": "Team 1",
+    "group": "Group A",
+    "ranking": null
+  },
+  {
+    "id": "t2",
+    "name": "Team 2",
+    "group": "Group A",
+    "ranking": null
+  },
+  {
+    "id": "t3",
+    "name": "Team 3",
+    "group": "Group A",
+    "ranking": null
+  },
+  {
+    "id": "t4",
+    "name": "Team 4",
+    "group": "Group A",
+    "ranking": null
+  },
+  {
+    "id": "t5",
+    "name": "Team 5",
+    "group": "Group B",
+    "ranking": null
+  },
+  {
+    "id": "t6",
+    "name": "Team 6",
+    "group": "Group B",
+    "ranking": null
+  },
+  {
+    "id": "t7",
+    "name": "Team 7",
+    "group": "Group B",
+    "ranking": null
+  },
+  {
+    "id": "t8",
+    "name": "Team 8",
+    "group": "Group B",
+    "ranking": null
+  },
+  {
+    "id": "winner_a",
+    "name": "Winner Group A",
+    "group": ""
+  },
+  {
+    "id": "runner_b",
+    "name": "Runner-up Group B",
+    "group": ""
+  },
+  {
+    "id": "winner_b",
+    "name": "Winner Group B",
+    "group": ""
+  },
+  {
+    "id": "runner_a",
+    "name": "Runner-up Group A",
+    "group": ""
+  },
+  {
+    "id": "winner_sf1",
+    "name": "Winner Semi-final 1",
+    "group": ""
+  },
+  {
+    "id": "winner_sf2",
+    "name": "Winner Semi-final 2",
+    "group": ""
+  }
+]

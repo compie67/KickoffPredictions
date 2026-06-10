@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ver",
+    "name": "Max Verstappen",
+    "flag": "🇳🇱",
+    "team": "Red Bull",
+    "country": "Netherlands",
+    "group": ""
+  },
+  {
+    "id": "had",
+    "name": "Isack Hadjar",
+    "flag": "🇫🇷",
+    "team": "Red Bull",
+    "country": "France",
+    "group": ""
+  },
+  {
+    "id": "nor",
+    "name": "Lando Norris",
+    "flag": "🇬🇧",
+    "team": "McLaren",
+    "country": "United Kingdom",
+    "group": ""
+  },
+  {
+    "id": "pia",
+    "name": "Oscar Piastri",
+    "flag": "🇦🇺",
+    "team": "McLaren",
+    "country": "Australia",
+    "group": ""
+  },
+  {
+    "id": "lec",
+    "name": "Charles Leclerc",
+    "flag": "🇲🇨",
+    "team": "Ferrari",
+    "country": "Monaco",
+    "group": ""
+  },
+  {
+    "id": "ham",
+    "name": "Lewis Hamilton",
+    "flag": "🇬🇧",
+    "team": "Ferrari",
+    "country": "United Kingdom",
+    "group": ""
+  },
+  {
+    "id": "rus",
+    "name": "George Russell",
+    "flag": "🇬🇧",
+    "team": "Mercedes",
+    "country": "United Kingdom",
+    "group": ""
+  },
+  {
+    "id": "ant",
+    "name": "Kimi Antonelli",
+    "flag": "🇮🇹",
+    "team": "Mercedes",
+    "country": "Italy",
+    "group": ""
+  },
+  {
+    "id": "alo",
+    "name": "Fernando Alonso",
+    "flag": "🇪🇸",
+    "team": "Aston Martin",
+    "country": "Spain",
+    "group": ""
+  },
+  {
+    "id": "str",
+    "name": "Lance Stroll",
+    "flag": "🇨🇦",
+    "team": "Aston Martin",
+    "country": "Canada",
+    "group": ""
+  },
+  {
+    "id": "law",
+    "name": "Liam Lawson",
+    "flag": "🇳🇿",
+    "team": "RB",
+    "country": "New Zealand",
+    "group": ""
+  },
+  {
+    "id": "lin",
+    "name": "Arvid Lindblad",
+    "flag": "🇬🇧",
+    "team": "RB",
+    "country": "United Kingdom",
+    "group": ""
+  },
+  {
+    "id": "bea",
+    "name": "Oliver Bearman",
+    "flag": "🇬🇧",
+    "team": "Haas",
+    "country": "United Kingdom",
+    "group": ""
+  },
+  {
+    "id": "oco",
+    "name": "Esteban Ocon",
+    "flag": "🇫🇷",
+    "team": "Haas",
+    "country": "France",
+    "group": ""
+  },
+  {
+    "id": "gas",
+    "name": "Pierre Gasly",
+    "flag": "🇫🇷",
+    "team": "Alpine",
+    "country": "France",
+    "group": ""
+  },
+  {
+    "id": "col",
+    "name": "Franco Colapinto",
+    "flag": "🇦🇷",
+    "team": "Alpine",
+    "country": "Argentina",
+    "group": ""
+  },
+  {
+    "id": "alb",
+    "name": "Alexander Albon",
+    "flag": "🇹🇭",
+    "team": "Williams",
+    "country": "Thailand",
+    "group": ""
+  },
+  {
+    "id": "sai",
+    "name": "Carlos Sainz",
+    "flag": "🇪🇸",
+    "team": "Williams",
+    "country": "Spain",
+    "group": ""
+  },
+  {
+    "id": "hul",
+    "name": "Nico Hulkenberg",
+    "flag": "🇩🇪",
+    "team": "Sauber/Audi",
+    "country": "Germany",
+    "group": ""
+  },
+  {
+    "id": "bor",
+    "name": "Gabriel Bortoleto",
+    "flag": "🇧🇷",
+    "team": "Sauber/Audi",
+    "country": "Brazil",
+    "group": ""
+  },
+  {
+    "id": "per",
+    "name": "Sergio Perez",
+    "flag": "🇲🇽",
+    "team": "Cadillac",
+    "country": "Mexico",
+    "group": ""
+  },
+  {
+    "id": "bot",
+    "name": "Valtteri Bottas",
+    "flag": "🇫🇮",
+    "team": "Cadillac",
+    "country": "Finland",
+    "group": ""
+  }
+]
